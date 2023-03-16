@@ -1,4 +1,7 @@
-### Hi there **friends** 👋
+### Hi there!
+I graduated in Web Dev from [Le Wagon](www.lewagon.com) in March 2023
+[CareerPal](https://www.careerpal.me/) was our final project, go have a look 😄
+
 
 <!--
 **giuliazeni/giuliazeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
