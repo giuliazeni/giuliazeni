@@ -1,7 +1,11 @@
 ### Hi there!
-I graduated in Web Dev from [Le Wagon](www.lewagon.com) in March 2023
+I graduated in Web Dev from [Le Wagon](www.lewagon.com) in March 2023 💻
 
-[CareerPal](https://www.careerpal.me/) was our final project, go have a look 😄
+[CareerPal](https://www.careerpal.me/) was our final project, go have a look 👀 
+
+After a full immersion in Ruby on Rails, I'm now learning JavaScript 👩‍💻
+
+Looking for a junior front-end developer for your team? Let's talk about it! 📞
 
 
 <!--
