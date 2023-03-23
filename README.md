@@ -5,7 +5,7 @@
 
 👩‍💻 After a full-immersion in Ruby on Rails, I'm now learning JavaScript amd React
 
-📞 Looking for a junior frontend developer for your team? Let's talk about it!
+📞 Looking for a junior frontend developer for your team? [Let's talk about it](https://www.linkedin.com/in/giulia-zeni/)!
 
 
 <!--
