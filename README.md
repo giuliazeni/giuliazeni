@@ -3,7 +3,7 @@
 
 👀 Our final project was [CareerPal](https://www.careerpal.me/), one of the best 3 in my batch
 
-👩‍💻 After a full-immersion in Ruby on Rails, I'm now learning JavaScript amd React
+👩‍💻 After a full-immersion in Ruby on Rails, I'm now learning JavaScript and React
 
 📞 Looking for a junior frontend developer for your team? [Let's talk about it](https://www.linkedin.com/in/giulia-zeni/)!
 
