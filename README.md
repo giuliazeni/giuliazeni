@@ -1,11 +1,11 @@
 ### Hi there!
-💻 I graduated in Web Dev from [Le Wagon](www.lewagon.com) in March 2023
+👩‍🏫 I was a self-employed foreign-language instructor for ten years (Italian, English, French, Spanish, German)
+
+💻 I then graduated in Web Dev from [Le Wagon](www.lewagon.com) in March 2023
 
 👀 Our final project was [CareerPal](https://www.careerpal.me/), one of the best 3 in my batch
 
-👩‍💻 After a full-immersion in Ruby on Rails, I'm now learning JavaScript and React
-
-📞 Looking for a junior frontend developer for your team? [Let's talk about it](https://www.linkedin.com/in/giulia-zeni/)!
+👩‍💻 I decided to pursue a career in Product Management and found a great and supportive team at prosperity solutions, which I joined in August '23.
 
 
 <!--
